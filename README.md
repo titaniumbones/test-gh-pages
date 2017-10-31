@@ -1,2 +1,2 @@
 # test-gh-pages
-justfor testing gh pages setup 
+just for testing gh pages setup 
